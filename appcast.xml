@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://ethane1755.github.io/Forcee-release/Forcee.dmg" length="3418951" type="application/octet-stream" sparkle:edSignature="ZMP7UwDyTA4otavf1CKrkmwg1z48fJK1PkLHylRvXCZ1CmXQfliDtSaG76mGa+lHJY7lz8jOEgGrFyVuusmoDQ=="/>
+            <enclosure url="https://ethane1755.github.io/Forcee-release/Forcee.dmg" length="3641044" type="application/octet-stream" sparkle:edSignature="TbR4bTwnCIfdOw/2IoiwoJbKwyaHEFl4i7tIW3xkv2K1dwpY16manF0VRRrbifeH802trk+m1moyKA06o76+AA=="/>
         </item>
     </channel>
 </rss>
