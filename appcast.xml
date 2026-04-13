@@ -6,9 +6,9 @@
             <title>0.9</title>
             <pubDate>Mon, 13 Apr 2026 09:01:55 +0800</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Ethane1755/Forcee-release/Forcee_v0.9.dmg" length="3368047" type="application/octet-stream" sparkle:edSignature="vHucPeLbec/OPKYCexYi8DRri0vdilw8HtyW4dmtGofcE4ylorIGZOvoNrCn8DKfUJlmf8vqRCuhC6Hw7yi5Dg=="/>
+            <enclosure url="https://github.com/Ethane1755/Forcee-release/Forcee_v1.1.dmg" length="3368034" type="application/octet-stream" sparkle:edSignature="l0KFgtVIGIcKTTDaLqI0ckkEUWsGDvxphFQkyvJbIg767FIVoqJlCBEo8DQ7oPYAiYGDyutww0y+QYfdaKCRDQ=="/>
         </item>
     </channel>
 </rss>
